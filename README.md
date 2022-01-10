@@ -10,6 +10,7 @@
 - 🥅 2022 Goals: Getting a full time job in Android Development
 
 <h3 align="left">Connect with me:</h3>
+<a href="#" class="fa fa-facebook"></a>
 <p align="left">
 </p>
 
