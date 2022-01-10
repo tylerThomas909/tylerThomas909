@@ -5,6 +5,8 @@
 
 - ⚡ Fun fact **I enjoy pc gaming**
 
+- 🌱 I’m currently learning more advanced 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
