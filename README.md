@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyler</h1>
-<h3 align="center">I am a passionate Android Developer currently enrolled in Computer Engineering Technology.</h3>
+<h3 align="left">I am a passionate Android Developer currently enrolled in Computer Engineering Technology.</h3>
 
 - 🌱 I’m currently learning more advanced **Kotlin techniques**
 
