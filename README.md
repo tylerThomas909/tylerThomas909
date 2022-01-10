@@ -5,7 +5,9 @@
 
 - ⚡ Fun fact **I enjoy pc gaming**
 
-- 🌱 I’m currently learning more advanced 
+- 👯 I’m looking to work with other Android Developers and learn
+
+- 🥅 2022 Goals: Getting a full time job in Android Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
