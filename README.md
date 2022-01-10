@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Tyler</h1>
 <h3 align="left">I am a passionate Android Developer currently enrolled in Computer Engineering Technology.</h3>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 - 🌱 I’m currently learning more advanced **Kotlin techniques**
 
 - ⚡ Fun fact **I enjoy pc gaming**
@@ -10,7 +10,7 @@
 - 🥅 2022 Goals: Getting a full time job in Android Development
 
 <h3 align="left">Connect with me:</h3>
-<a href="#" class="fa fa-facebook"></a>
+
 <p align="left">
 </p>
 
