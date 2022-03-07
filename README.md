@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to work with other Android Developers and learn
 
-- 🥅 2022 Goals: Getting a full time job in Android Development
+- 🥅 2022 Goals: Getting a job in Software
 
 <h3 align="left">Connect with me:</h3>
 
