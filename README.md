@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I enjoy pc gaming**
 
-- 👯 I’m looking to work with other Android Developers and learn
+- 👯 I’m looking to work with other Software Developers and learn
 
 - 🥅 2022 Goals: Getting a job in Software
 
